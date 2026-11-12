@@ -1,0 +1,17 @@
+{
+  "name": "WiseFunnel",
+  "wordmark": "wisefunnel",
+  "tagline": "Buyers first.",
+  "site": "wisefunnel.io",
+  "app_url": "app.wisefunnel.io",
+  "offer_url": "wiseform.io/roofing",
+  "handle": "yourhandle",
+  "logo": "logo.png",
+  "colors": { "accent": "#F97316", "dark": "#1A2B3B" },
+  "fonts": { "body": "fonts/Inter-latin.woff2", "hand": "fonts/Caveat-700-latin.woff2" },
+  "cta": {
+    "button": "Start free trial",
+    "en": { "trial": ["Try it free", "no credit card"], "build": ["Build your funnel in", "wisefunnel.io"], "build_big": "15 SECONDS" },
+    "pt": { "trial": ["Teste grátis", "sem cartão de crédito"], "build": ["Crie seu funil em", "wisefunnel.io"], "build_big": "15 SEGUNDOS" }
+  }
+}

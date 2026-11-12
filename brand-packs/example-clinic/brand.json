@@ -1,0 +1,17 @@
+{
+  "name": "Sorriso Vivo",
+  "wordmark": "sorriso vivo",
+  "tagline": "Seu sorriso, sem espera.",
+  "site": "sorrisovivo.com.br",
+  "app_url": "agenda.sorrisovivo.com.br",
+  "offer_url": "sorrisovivo.com.br/avaliacao",
+  "handle": "dra.marina.sorrisovivo",
+  "logo": "logo.png",
+  "colors": { "accent": "#0EA5A4", "dark": "#0B2E3A" },
+  "fonts": { "body": "fonts/SpaceGrotesk-latin.woff2", "hand": "fonts/patrickhand.ttf" },
+  "cta": {
+    "button": "Agendar avaliação",
+    "en": { "trial": ["Book a free check-up", "no waiting list"], "build": ["Book your visit in", "sorrisovivo.com.br"], "build_big": "60 SECONDS" },
+    "pt": { "trial": ["Avaliação grátis", "sem fila de espera"], "build": ["Agende sua consulta em", "sorrisovivo.com.br"], "build_big": "60 SEGUNDOS" }
+  }
+}

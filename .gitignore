@@ -1,0 +1,15 @@
+# local data / outputs
+*.mp4
+*.webm
+.DS_Store
+node_modules/
+# third-party audio: NOT redistributed in the repo (Pixabay licence forbids re-hosting the raw files as a collection)
+public/sfx/
+public/music/
+
+.env
+*.env
+video/
+out/
+session.json
+music.mp3
